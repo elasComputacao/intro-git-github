@@ -1,7 +1,7 @@
 # 👩‍💻 Introdução a Git & Github
 <p align="center">
 <img src="./assets/logo_elas.png" heigth="80" width="180"/>
-<img src="./assets/opendevufcg_icon.png" heigth="80" width="180"/>
+<img src="./assets/opendevufcg_icon.png" heigth="75" width="175"/>
 <p/>
 
 
@@ -22,14 +22,14 @@ Bem, o Github é uma plataforma para hospedagem de código-fonte e repositórios
 
 - Para sistemas baseados em Debian/Ubuntu, execute o comando:
 
-    ```apt-get install git```
+    ```$ apt-get install git```
 
 - Para o Ubuntu, esta PPA oferece a versão mais atual e estável do Git: 
 
     ```
-    add-apt-repository ppa:git-core/ppa
-    apt update 
-    apt install git
+    $ add-apt-repository ppa:git-core/ppa
+    $ apt update 
+    $ apt install git
     ```
 
 - Se você utiliza outro sistema (Linux/Unix, Windows ou MacOS), [clique neste link](https://git-scm.com/downloads).
@@ -38,8 +38,8 @@ Bem, o Github é uma plataforma para hospedagem de código-fonte e repositórios
 
 #### Para começar a utilizar o Git, é necessário que você configure os dados da sua conta do Github
 
-    # git config --global user.name "Seu UserName"
-    # git config --global user.email seuemail@exemplo.com
+    $ git config --global user.name "Seu UserName"
+    $ git config --global user.email seuemail@exemplo.com
 
 Se você quiser checar todas as configurações possíveis, [clique neste link](https://www.git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
 
