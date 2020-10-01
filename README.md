@@ -37,9 +37,9 @@ Bem, o Github é uma plataforma para hospedagem de código-fonte e repositórios
 
 #### Para começar a utilizar o Git, é necessário que você configure os dados da sua conta do Github
 
-    ```
+    ~~~
     # git config --global user.name "Seu UserName"
     # git config --global user.email seuemail@exemplo.com
-    ```
+    ~~~
 
 Se você quiser checar todas as configurações possíveis, [clique neste link](https://www.git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
