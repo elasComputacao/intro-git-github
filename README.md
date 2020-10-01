@@ -30,7 +30,8 @@ Bem, o Github é uma plataforma para hospedagem de código-fonte e repositórios
     $ apt update 
     $ apt install git
     ```
-    Assim que finalizar a instalação, utilize o comando ```git --version```para ter certeza de que tudo ocorreu bem. 
+    Assim que finalizar a instalação, utilize o comando ```git --version```para ter certeza de que tudo ocorreu bem.
+    
 - Se você utiliza outro sistema (Linux/Unix, Windows ou MacOS), [clique neste link](https://git-scm.com/downloads).
 
 ## Configuração inicial do Git
@@ -63,7 +64,8 @@ Se você quiser checar todas as configurações possíveis, [clique neste link](
 	
 	Irá aparecer uma mensagem dizendo *No commits yet*. Isso quer dizer que seu repositório foi criado, mas ele ainda está vazio. Por enquanto deixaremos assim. 
 3. Agora, vá até sua página do Github e para criar um repositório remoto clique em **New**.
-![repo-remoto](https://ibb.co/qRTjp9r)
+
+	![Alt](https://uploaddeimagens.com.br/imagens/3C8aMn0)
 
 	Digite o nome do repositório (que deve ser igual ao nome da pasta criada). Apenas o nome já é suficiente pra criar o repositório. No final da página, clique em **CreateRepository**
 
@@ -72,9 +74,11 @@ Se você quiser checar todas as configurações possíveis, [clique neste link](
 4. Agora, é hora de conectar o repositório local ao repositório remoto!
 	
 	Vá até o seu repositório remoto, clique em **Code** e copie o link HTTPS.
-	![clone](https://ibb.co/b2F82Yq)
+	
+	![Alt](https://ibb.co/b2F82Yq)
 
 	Agora, volte ao terminal e digite:
+	
 	```$ git remote add origin https://github.com/seuuser/minha-pasta.git```
 
 
