@@ -16,15 +16,17 @@ Bem, o Github é uma plataforma para hospedagem de código-fonte e repositórios
 
 ## Instalando o Git
 
-Para começar, é preciso ter o Git instalado na sua máquina
+### Para começar, é preciso ter o Git instalado na sua máquina
 
-Para sistemas baseados em Debian/Ubuntu:
+- Para sistemas baseados em Debian/Ubuntu:
+
 ```# apt-get install git```
 
-Para o Ubuntu, esta PPA oferece a versão mais atual e estável do Git: 
+- Para o Ubuntu, esta PPA oferece a versão mais atual e estável do Git: 
 
 ```# add-apt-repository ppa:git-core/ppa```
+
 ```# apt update; apt install git```
 
-Para ver como o download pode ser feito para outros sistemas Linux/Unix, Windows e MacOS, [clique neste link](https://git-scm.com/downloads).
+- Se você utiliza outro sistema (Linux/Unix, Windows ou MacOS), [clique neste link](https://git-scm.com/downloads).
 
