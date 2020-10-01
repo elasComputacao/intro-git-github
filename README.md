@@ -41,4 +41,5 @@ Bem, o Github é uma plataforma para hospedagem de código-fonte e repositórios
     # git config --global user.name "Seu UserName"
     # git config --global user.email seuemail@exemplo.com
     ```
-Se você quiser checar todas as configurações possíveis, [clique neste link] (https://www.git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
+
+Se você quiser checar todas as configurações possíveis, [clique neste link](https://www.git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
