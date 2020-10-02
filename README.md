@@ -1,8 +1,9 @@
 # 👩‍💻 Introdução a Git & Github
 <p align="center">
-<img src="./assets/logo_elas.png" heigth="80" width="180"/>
-<img src="./assets/opendevufcg_icon.png" heigth="50" width="110"/>
+	<img src="./assets/logo_elas.png" heigth="80" width="180"/>
+	<img src="./assets/opendevufcg_icon.png" heigth="50" width="150"/>
 <p/>
+
 
 ## O que é Git?  
 
@@ -51,6 +52,8 @@ Se você quiser checar todas as configurações possíveis, [clique neste link](
 	```
 	$ cd Documentos/
 	$ mkdir minha-pasta
+	
+	# o comando *cd* te direciona a um diretório, o comando *mkdir* cria uma pasta
 	```
 	
 2. Depois de criar a pasta, você deve ir até ela e iniciá-la como um repositório:
@@ -65,17 +68,17 @@ Se você quiser checar todas as configurações possíveis, [clique neste link](
 	Irá aparecer uma mensagem dizendo *No commits yet*. Isso quer dizer que seu repositório foi criado, mas ele ainda está vazio. Por enquanto deixaremos assim. 
 3. Agora, vá até sua página do Github e para criar um repositório remoto clique em **New**.
 
-	![Alt](https://uploaddeimagens.com.br/imagens/3C8aMn0)
+	<img src="./assets/repo-remoto.png" heigth="150" width="300"/>
 
 	Digite o nome do repositório (que deve ser igual ao nome da pasta criada). Apenas o nome já é suficiente pra criar o repositório. No final da página, clique em **CreateRepository**
 
-	![repositorio](https://ibb.co/q0XCTR2)
+	<img src="./assets/repositorio.png" heigth="270" width="540"/>
 	
 4. Agora, é hora de conectar o repositório local ao repositório remoto!
 	
 	Vá até o seu repositório remoto, clique em **Code** e copie o link HTTPS.
 	
-	![Alt](https://ibb.co/b2F82Yq)
+	<img src="./assets/clone.png" heigth="270" width="540"/>
 
 	Agora, volte ao terminal e digite:
 	
@@ -88,22 +91,28 @@ ou pode executar o comando:
 	```$ echo "# minha-pasta" >> README.md ```
 	
 6. Depois, adicione essa alteração no seu repositório:
+
 	```$ git add README.md```
 	
 	**Obs**: se você tiver adicionado um arquivo na sua pasta de outra forma, 
 	digite apenas ```$ git add .```
 	
 7. Commite a alteração para o seu repositório remoto:
+
 	 ```$ git commit -m "first commit"```
 
 8. Agora, você pode enviar todas as alterações do seu repositório local de vez para o repositório remoto: 
-```$ git push -u origin master```
+
+	  ```$ git push -u origin master```
 
 	Serão solicitados seu username e sua senha. Depois de digitá-los,
 	uma mensagem parecida com esta deve aparecer:
 	
-	> Total 3 (delta 0), reused 0 (delta 0)
+	```
+	Total 3 (delta 0), reused 0 (delta 0)
 	To https://github.com/seuuser/minha-pasta.git
 	[new branch]      master -> master
-
+	```
+	
+	
  Prontinho! Você criou seu primeiro repositório local e enviou todas as alterações feitas nele para um 	repositório remoto!
