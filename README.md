@@ -146,3 +146,8 @@ ou pode executar o comando:
 	Unpacking objects: 100% (3/3), 597 bytes | 597.00 KiB/s, done.
 	```
  Agora, você pode adicionar arquivos e enviá-los para o repositório remoto :)
+ 
+ 
+<h4 align="center">
+	:hammer: Work in progress :hammer:
+<h4/>
