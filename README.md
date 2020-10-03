@@ -6,13 +6,13 @@
 
 ## Índice
 
-- [O que é Git? E Github?](O-que-é-Git?-E-Github?)
-- [Git - Instalando](Instalando-o-Git)
-	- [Configurando o ambiente](Configuração-inicial-do-Git)
-- [Criando um repositório. Fluxo do Local > Remoto](Criando-um-repositório-local-e-conectando-ele-com-um-repositório-remoto)
-	- [Adicionando o primeiro arquivo](Adicionando-o-primeiro-arquivo)
-	- [Commit e Push do arquivo](Commitando-e-enviando-a-primeira-alteração)	
-- [Criando um repositório. Fluxo do Remoto > Local](Criando-um-repositório-remoto-e-trazendo-pro-seu-ambiente-local)
+- [O que é Git? E Github?](#o-que-é-git?-e-github?)
+- [Git - Instalando](#instalando-o-git)
+	- [Configurando o ambiente](#configuração-inicial-do-git)
+- [Criando um repositório. Fluxo do Local > Remoto](#criando-um-repositório-local-e-conectando-ele-com-um-repositório-remoto)
+	- [Adicionando o primeiro arquivo](#adicionando-o-primeiro-arquivo)
+	- [Commit e Push do arquivo](#commitando-e-enviando-a-primeira-alteração)	
+- [Criando um repositório. Fluxo do Remoto > Local](#criando-um-repositório-remoto-e-trazendo-pro-seu-ambiente-local)
 
 
 ## O que é Git? E Github?
