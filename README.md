@@ -1,3 +1,5 @@
+Oi gente, tudo bom?
+
 # 👩‍💻 Introdução a Git & Github
 <p align="center">
 	<img src="./assets/logo_elas.png" heigth="80" width="180"/>
